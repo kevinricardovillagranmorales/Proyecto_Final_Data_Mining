@@ -1,0 +1,6 @@
+COMO EL CONJUNTO DE DATOS ES MUY GRANDE HAY QUE DESCARGAR
+EL ARCHIVO DIRECTAMENTE DESDE KAGGLE
+
+LINK DE DESCARGA DEL CONJUNTO DE DATOS
+
+https://www.kaggle.com/code/luisferfranco/exploring-mexico-temperature-changes-from-1835/data
